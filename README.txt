@@ -1,2 +1,2 @@
 This is a README file.
-Git tracks changes.
+Git tracks changes of files.
