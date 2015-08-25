@@ -4,6 +4,7 @@
 print u'中文测试'
 print '------------------------------'
 
+print '-----------------START------------------'
 name = raw_input(u'请输入一个中文名字：'.encode('gbk')).decode('gbk')
 print '--------%s' % name
 print 'The name is', name
