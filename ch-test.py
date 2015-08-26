@@ -11,3 +11,4 @@ print 'The name is', name
 print u'输入名称为: %s' % (name)
 print '-----------------END------------------'
 #comment1
+# comment 2
